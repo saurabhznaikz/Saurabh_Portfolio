@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Saurabh Naik</title>
+    <link>https://saurabhznaikz.github.io/Saurabh_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Saurabh Naik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Sep 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://saurabhznaikz.github.io/Saurabh_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Phishing Domain Detection</title>
+      <link>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-1/</link>
+      <pubDate>Tue, 20 Sep 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-1/</guid>
+      <description>This application takes inputs related to a URL&amp;rsquo;s features and depending upon that, it predicts whether the website is malicious or not. After doing various Experimentations it was decided that XGBoost was well performing ML algorithm for this use case The inputs are preprocessed and then given to the XGBoost model Depending upon the output of the model ,Output(whether the website is malicious or not) is displayed Link to Github</description>
+    </item>
+    
+    <item>
+      <title>Project 2: High-risk-appicant-identifier</title>
+      <link>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-2/</link>
+      <pubDate>Mon, 19 Sep 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-2/</guid>
+      <description>It is Machine Learning Classification Problem After Taking various inputs from the user data preprocessing is done like(Handling missing values,handling categorical values,handling outliers,handling distribution,bringing data into a same scale) Various Ml algorithms were considered during this experimentation and by using the optuna library Performance metrics - Recall was used as False Negative were the main concern in this usecase Link to Github</description>
+    </item>
+    
+    <item>
+      <title>Project 3: T20I-Score-predictor</title>
+      <link>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-3/</link>
+      <pubDate>Sun, 18 Sep 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-3/</guid>
+      <description>It is Machine Learning Regression Problem After Taking various inputs from the user data preprocessing is done like(Handling missing values,handling categorical values,handling outliers,handling distribution,bringing data into a same scale) Various Ml algorithms were considered during this experimentation and by using the optuna library and model was saved as a pickle file Performance metrics - Adjusted R square was used as a performance metric as this is a regression problem Link to Github</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Movie Recommendation System</title>
+      <link>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-4/</link>
+      <pubDate>Sat, 17 Sep 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-4/</guid>
+      <description>After data collection, data cleaning was done multiple features were combined after performing NLP preprocessing Features were converted into word embedding Cosine Similarities are calculated while performing Recommendations Poster of movie is also displayed on the output Link to Github</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Sentiment Analyser</title>
+      <link>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-5/</link>
+      <pubDate>Fri, 16 Sep 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-5/</guid>
+      <description>NLTK and Textblob library were used for calculating sentiments score Sentiment score were converted into a range from 0 to 100, where 50 means a neutral sentence while score&amp;gt;50 means positive sentence and score &amp;lt;50 means negative sentence Flask Api was created so as to use this application as endpoint and deployed in company server Link to Github</description>
+    </item>
+    
+    <item>
+      <title>Project 6: simple-dvc-mlflow-project</title>
+      <link>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-6/</link>
+      <pubDate>Thu, 15 Sep 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-6/</guid>
+      <description>Data was provided by the company Data versioning was done on various life cycle stages of Machine learning pipelining Directed acyclic graph was created to track the data version control MLflow library was used to track the performance of the machine learning models Visualization were created for various models Link to Github</description>
+    </item>
+    
+    <item>
+      <title>Project 7: Question-answering-system-using-Bert</title>
+      <link>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-7/</link>
+      <pubDate>Wed, 14 Sep 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-7/</guid>
+      <description>This is classic NLP task performed using State of the Art Model- BERT Based on given dataset, data is seprated and annotated into 3 files: 1) predictions.json 2)test.json 3)train.json Then with the help of simpletransformer and hugginface library Question Answering system is implemented Gradio app is created to demonstrate the working of the this system Link to Github</description>
+    </item>
+    
+    <item>
+      <title>Project 8: House-price-prediction-data-preprocessing</title>
+      <link>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-8/</link>
+      <pubDate>Tue, 13 Sep 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-8/</guid>
+      <description>Dataset for House price was collected Various visualization performing data analysis was performed Data preprocessing steps like Feature Engineering and Feature Selection was performed A Jupyter notebook is given to demonstrate all these activities Link to Github</description>
+    </item>
+    
+    <item>
+      <title>Project 9: Exploratory Data Analysis on Zomato Dataset</title>
+      <link>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-9/</link>
+      <pubDate>Mon, 12 Sep 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-9/</guid>
+      <description>Dataset for Zomato was collected from Various Data sources This dataset was converted into a dataframe for appropriate analysis Various visual diagrams were drawn to gain insights for the given dataset A Jupyter notebook is given to demonstrate all these activities Link to Github</description>
+    </item>
+    
+    <item>
+      <title>Project 10: Spelling-corrector</title>
+      <link>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-10/</link>
+      <pubDate>Sun, 11 Sep 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-10/</guid>
+      <description>Creating a conda enviornment and then activating it Creating a flask app using symspell library Creating a front end to integrate the flask app Link to Github</description>
+    </item>
+    
+    <item>
+      <title>Project 11: Text-to-speech</title>
+      <link>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-11/</link>
+      <pubDate>Sat, 10 Sep 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://saurabhznaikz.github.io/Saurabh_Portfolio/post/project-11/</guid>
+      <description>Creating a conda enviornment and then activating it Creating a flask app using gTTS library Creating a front end to integrate the flask app Link to Github</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://saurabhznaikz.github.io/Saurabh_Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhznaikz.github.io/Saurabh_Portfolio/about/</guid>
+      <description>Data Science and its various types are of my main interests. My name is Saurabh Naik and I have been working in the data science field doing various AI solutions tasks for more than 1 year. I have held data science positions in various startups as an intern. I transitioned into data science from a software engineering background. When I was first starting out on my data science journey I was extremely lost; there were very few resources for me to learn about this field from.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://saurabhznaikz.github.io/Saurabh_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhznaikz.github.io/Saurabh_Portfolio/contact/</guid>
+      <description>Follow me on Social media
+Platform URL LinkedIn https://www.linkedin.com/in/saurabh-naik-981b611a3/ Github https://github.com/saurabhznaikz </description>
+    </item>
+    
+  </channel>
+</rss>
